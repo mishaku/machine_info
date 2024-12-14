@@ -1,0 +1,2 @@
+PAGE_INDEX_MAPPING = {'organization': 0, 'plant' : 1, 'shop' : 2, 'machine' : 3, 'element' : 4}
+PAGE_INDEX_MAPPING_REVERSE = {0 : 'organization', 1 : 'plant', 2 : 'shop', 3 : 'machine', 4 : 'element'}

@@ -1,0 +1,11 @@
+<RCC>
+    <qresource prefix="/routes">
+        <file>icons/gear.svg</file>
+        <file>icons/machine.svg</file>
+        <file>icons/organization.svg</file>
+        <file>icons/plant.svg</file>
+        <file>icons/shop.svg</file>
+        <file>icons/branch.svg</file>
+        <file>icons/information.svg</file>
+    </qresource>
+</RCC>
